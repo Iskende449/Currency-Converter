@@ -33,4 +33,6 @@
 5. Смотрите актуальные популярные курсы прямо на странице.
 
 Все данные берутся с **Frankfurter API**:
+[Figma](https://www.figma.com/design/nnHJ3KZ9fscuKCASvukzPi/Untitled?node-id=0-1&t=OhHDJd5mRXG8gOSB-1)
+
 
