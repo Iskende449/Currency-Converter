@@ -36,8 +36,9 @@
 
 
 
-[Figma](https://www.figma.com/design/nnHJ3KZ9fscuKCASvukzPi/Untitled?node-id=0-1&t=OhHDJd5mRXG8gOSB-1)
+[Figma](https://www.figma.com/proto/nnHJ3KZ9fscuKCASvukzPi/Untitled?t=vd4d9sAz0NzhTStz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2)
 [Presentation](https://www.canva.com/design/DAGfPpEewaE/qISW9wbDxR2_MRFgSW9kag/edit?utm_content=DAGfPpEewaE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 
